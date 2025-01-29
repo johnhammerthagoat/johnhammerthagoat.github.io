@@ -1,0 +1,208 @@
+Uri: https://www.llmtrading.com/
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\index.htm
+Content Type: text/html
+
+Uri: https://www.llmtrading.com/animations/buy_desktop.riv
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\animations\buy_desktop.riv
+Content Type: application/octet-stream
+
+Uri: https://www.llmtrading.com/animations/buy_mobile.riv
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\animations\buy_mobile.riv
+Content Type: application/octet-stream
+
+Uri: https://www.llmtrading.com/animations/logo.riv
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\animations\logo.riv
+Content Type: application/octet-stream
+
+Uri: https://www.llmtrading.com/animations/telegram.riv
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\animations\telegram.riv
+Content Type: application/octet-stream
+
+Uri: https://www.llmtrading.com/animations/x.riv
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\animations\x.riv
+Content Type: application/octet-stream
+
+Uri: https://www.llmtrading.com/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.llmtrading.com/cursor.cur
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\cursor.cur
+Content Type: application/octet-stream
+
+Uri: https://www.llmtrading.com/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://www.llmtrading.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.llmtrading.com/favicon.svg
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.llmtrading.com/fonts/AuxMono.otf
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fonts\AuxMono.otf
+Content Type: font/otf
+
+Uri: https://www.llmtrading.com/fonts/Blockstepped.ttf
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fonts\Blockstepped.ttf
+Content Type: font/ttf
+
+Uri: https://www.llmtrading.com/fonts/KleinHeadline-BoldOblique.ttf
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fonts\KleinHeadline-BoldOblique.ttf
+Content Type: font/ttf
+
+Uri: https://www.llmtrading.com/fonts/PPMondwest-Regular.otf
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fonts\PPMondwest-Regular.otf
+Content Type: font/otf
+
+Uri: https://www.llmtrading.com/fonts/PPNeueBit-Bold.otf
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fonts\PPNeueBit-Bold.otf
+Content Type: font/otf
+
+Uri: https://www.llmtrading.com/fonts/RosesareFF0000.ttf
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fonts\RosesareFF0000.ttf
+Content Type: font/ttf
+
+Uri: https://www.llmtrading.com/fonts/SeriouslyNostalgicItal-SmCn.otf
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fonts\SeriouslyNostalgicItal-SmCn.otf
+Content Type: font/otf
+
+Uri: https://www.llmtrading.com/fonts/VCR.ttf
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fonts\VCR.ttf
+Content Type: font/ttf
+
+Uri: https://www.llmtrading.com/fonts/VT323-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fonts\VT323-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.llmtrading.com/fried/asia.png
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\asia.png
+Content Type: image/png
+
+Uri: https://www.llmtrading.com/fried/blender.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\blender.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/bounce.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\bounce.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/bunny.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\bunny.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/calc.png
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\calc.png
+Content Type: image/png
+
+Uri: https://www.llmtrading.com/fried/car.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\car.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/CIG.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\CIG.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/globe.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\globe.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/ig.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\ig.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/kermit.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\kermit.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/pc.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\pc.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/splat.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\splat.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/START.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\START.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/trade.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\trade.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/wave.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\wave.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/fried/yes1.gif
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\fried\yes1.gif
+Content Type: image/gif
+
+Uri: https://www.llmtrading.com/images/icons.svg
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\images\icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.llmtrading.com/images/text_logo.svg
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\images\text_logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.llmtrading.com/site.webmanifest
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://www.llmtrading.com/song1.mp3
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\song1.mp3
+Content Type: audio/mpeg
+
+Uri: https://www.llmtrading.com/_next/static/chunks/298-518bbdcc1fe96f0a.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\chunks\298-518bbdcc1fe96f0a.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/chunks/31d4e3d1-e8f764109a41fd2b.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\chunks\31d4e3d1-e8f764109a41fd2b.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/chunks/afea92e3-da4b660c7b2c40d1.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\chunks\afea92e3-da4b660c7b2c40d1.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/chunks/framework-0271d0514da4f159.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\chunks\framework-0271d0514da4f159.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/chunks/main-50de763069eba4b2.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\chunks\main-50de763069eba4b2.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/chunks/pages/index-662c594a734d05ce.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\chunks\pages\index-662c594a734d05ce.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/chunks/pages/_app-dd3c57dc2c5b81ba.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\chunks\pages\_app-dd3c57dc2c5b81ba.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/chunks/webpack-4a25a065c93e087c.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\chunks\webpack-4a25a065c93e087c.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/css/c592c2858ac3aed0.css
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\css\c592c2858ac3aed0.css
+Content Type: text/css
+
+Uri: https://www.llmtrading.com/_next/static/dimbHA_OcVG6bL6GRQG_G/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\dimbHA_OcVG6bL6GRQG_G\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.llmtrading.com/_next/static/dimbHA_OcVG6bL6GRQG_G/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.llmtrading.com\_next\static\dimbHA_OcVG6bL6GRQG_G\_ssgManifest.js
+Content Type: application/javascript
+
